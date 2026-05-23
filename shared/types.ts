@@ -110,3 +110,4 @@ export interface SubscriptionStatus {
   canUseCoverLetterGenerator: boolean;
   canAccessTemplates: boolean;
 }
+// end
